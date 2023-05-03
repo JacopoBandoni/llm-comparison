@@ -1,0 +1,7 @@
+
+Port the data on a csv file and quickly test if the longest common sequence of words is usefull.
+
+If it is -> 
+
+    put an "explain" button under the expander that set an indec variable 'explain' (equal to the llm ouput to explain)
+    in such a way that different two compoennet are created compared to the plain ouput, colored in such a way to explain
